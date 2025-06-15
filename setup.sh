@@ -739,7 +739,7 @@ systemctl start udp-custom &>/dev/null
 
 echo enable service udp-custom
 systemctl enable udp-custom &>/dev/null
-print_success "UDP-CUSTOM BY NEWBIE STORE VPN"
+print_success "UDP-CUSTOM BY DINSTORE VPN"
 clear
 print_install "MEMASANG NOOBZVPNS"
 cd
@@ -754,7 +754,7 @@ systemctl start noobzvpns &>/dev/null
 
 echo enable service noobzvpns
 systemctl enable noobzvpns &>/dev/null
-print_success "NOOBZVPNS BY NEWBIE STORE"
+print_success "NOOBZVPNS BY DIN-STORE"
 }
 function ins_restart(){
 clear
